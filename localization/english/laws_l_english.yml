@@ -390,13 +390,13 @@
  citizens_rights:0 "Citizens Rights"
 
  judicial_discretion_rights:0 "Judicial Discretion Rights"
- judicial_discretion_rights_desc:0 ""
+ judicial_discretion_rights_desc:0 "Rights are given and taken by the courts arbitrarily, or according to non-standardised methodology."
  wealth_based_rights:0 "Wealth Based Rights"
- wealth_based_rights_desc:0 ""
+ wealth_based_rights_desc:0 "One's wealth determines the amount of personal rights afforded to themselves. Extremely popular among who already has much."
  bill_of_rights:0 "Bill of Rights"
- bill_of_rights_desc:0 ""
+ bill_of_rights_desc:0 "Rights are garaunteed by a regular, but official, law. While what is afforded may change at a moment's notice, it affords more personal protection than otherwise."
  constitutional_rights:0 "Constitutional Rights"
- constitutional_rights _desc:0 ""
+ constitutional_rights _desc:0 "Rights are garaunteed by a hard-to-modify constitution, thereby ensuring that any right afforded to citizens is always avaible and defensible."
 
 ##Constitional Laws##
 
